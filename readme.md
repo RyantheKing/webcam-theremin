@@ -4,7 +4,7 @@
 Webcam Music (scroll all the way to bottom for installation instructions)
 
 ## Demonstration
-[![Webcam Music Demonstration]({https://i.ibb.co/PGWqw4H/unknown.png})]({https://www.youtube.com/watch?v=SAhVSWwop8M} "Link Here")
+[![Webcam Music Demonstration]({https://i.ibb.co/PGWqw4H/unknown.png})]
 
 ## Github Link
 https://github.com/lchsiteam/theremin
