@@ -4,7 +4,7 @@
 Webcam Music (scroll all the way to bottom for installation instructions)
 
 ## Demonstration
-[![Webcam Theremin Demonstration](https://ibb.co/VvkSTv5)](https://drive.google.com/file/d/1xUO1AzPtO1sBUagXFVOr5G-6xg9XXyvC/view)
+[![Webcam Theremin Demonstration](https://ibb.co/VvkSTv5)](https://www.youtube.com/watch?v=SAhVSWwop8M)
 
 ## Github Link
 https://github.com/lchsiteam/theremin
